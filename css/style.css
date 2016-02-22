@@ -59,7 +59,10 @@ HEADER ROW STYLE
 /* 
 Carousel
 ===========================*/
-
+.top-buffer
+{
+	 margin-top:50px;
+}
 .carousel-control{
 	background: transparent;
 	width: 14px;
